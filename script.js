@@ -1,2 +1,2 @@
 
-const yourArray = new Array("string",10,true,false,20);
+var yourArray = ["tree",10,true,20,30];
